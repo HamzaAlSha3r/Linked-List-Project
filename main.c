@@ -1,4 +1,4 @@
-// project 1
+// project 1 Hamza Al Shaer 
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
